@@ -7,7 +7,11 @@ categories: ["beauty", "fashion"]
 params:
   theme: light
 resources:
-  - src: mina-rad-V94CguEmeos-unsplash.jpg
+  - src: 01.jpg
+  - src: 02.jpg
+  - src: 03.jpg
+  - src: 04.jpg
+  - src: 05.jpg
     params:
       cover: true
 ---
