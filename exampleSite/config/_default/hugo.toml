@@ -16,7 +16,7 @@ title = "Gallery"
     name = "Mordus Dariya"
   [params.socialIcons]
     #facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
+    instagram = "https://www.instagram.com/dariamordus"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
     email = "mailto:user@example.com"
