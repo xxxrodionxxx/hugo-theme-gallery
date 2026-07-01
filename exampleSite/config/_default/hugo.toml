@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = "© Mordus Dariya"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
@@ -13,12 +13,12 @@ title = "Gallery"
   title = "My Gallery"
   [params.author]
     email = "user@example.com"
-    name = "Your Name"
+    name = "Mordus Dariya"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
+    #facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
     email = "mailto:user@example.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
@@ -26,7 +26,8 @@ title = "Gallery"
     #mixcloud = "https://example.com"
     #flickr = "https://www.flickr.com"
     #500px = "https://500px"
-    #whatsapp = "1234567890"
+    whatsapp = "+79234174313"
+    VK = "https://vk.com/club229344832"
   [params.gallery]
     #boxSpacing = 10
     #targetRowHeight = 288
